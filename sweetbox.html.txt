@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Home page</h1>
-<P>ramu test TEchs channei</p>
+<h1>this is Home page</h1>
+<P>nani test TEchs channei is subcribing</p>
 </body>
 </html>
